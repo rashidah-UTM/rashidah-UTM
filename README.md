@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Rashidah</h1>
+<h3 align="center">I'm a lecturer</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
+
+
 ![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
